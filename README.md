@@ -31,11 +31,6 @@ Enthusiastic undergraduate with a deep passion for software development and a st
 ---
 
 ### GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohamedWElteir&theme=chartreuse-dark&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedWElteir&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedWElteir&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/MohamedWElteir?cardType=github&theme=highcontrast&preferLogin=true&Ring=FFFEFE)](https://git.io/awesome-stats-card)
 
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@MohamedWElteir&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
