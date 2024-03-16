@@ -1,4 +1,4 @@
-<h1 align="center"><samp>Hello! 👋 I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://bio.link/mohamedwelteir">Mohamed Wael</a></b></samp></h1>
+<h1 align="center"><samp>Hello👋, I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://bio.link/mohamedwelteir">Mohamed Wael</a></b></samp></h1>
 <p align="center">
     <samp>
         「 Computer Science student @ <b>Alexandria University</b> 」<br>
