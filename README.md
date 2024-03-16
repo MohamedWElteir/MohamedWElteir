@@ -8,7 +8,7 @@
 <samp>
         <p align="center">
                 <a href="https://codeforces.com/profile/Az3arina" target="_blank"><img src="https://img.shields.io/badge/Codeforces-Profile-blue?style=flat-square&logo=codeforces"></a>
-                <a href="https://leetcode.com/profile/MohamedWElteir" target="_blank"><img src="https://img.shields.io/badge/Leetcode-Profile-blue?style=flat-square&logo=leetcode"></a>
+                <a href="https://leetcode.com/MohamedWElteir" target="_blank"><img src="https://img.shields.io/badge/Leetcode-Profile-blue?style=flat-square&logo=leetcode"></a>
                 <a href="https://www.facebook.com/mohamedwelteir" target="_blank"><img src="https://img.shields.io/badge/Facebook-Profile-blue?style=flat-square&logo=facebook"></a>
                 <a href="https://www.linkedin.com/in/mohamedwelteir" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin"></a>
                 <a href="https://discord.gg/755403154488688700" target="_blank"><img src="https://img.shields.io/badge/Discord-Server-blue?style=flat-square&logo=discord"></a>
