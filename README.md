@@ -20,7 +20,7 @@
      
         
 <samp>
-<h1 align="center">Skills</hi>
+<h1 align="center">Skills</h1>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="50" height="50"/>
@@ -33,17 +33,26 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Git" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="50" height="50"/>
-  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="50" height="50"/>
 </p>
 
-</samp>         
-         
- [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/MohamedWElteir?cardType=github&theme=highcontrast&preferLogin=true&Ring=FFFEFE)](https://git.io/awesome-stats-card)
-    <br>
- [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@MohamedWElteir&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://awesome-github-stats.azurewebsites.net/user-stats/MohamedWElteir?cardType=level-alternate&theme=github-dark&preferLogin=true&Background=000000&Title=DDDDDD&Text=DDDDDD" alt="GitHub Stats"><br>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=MohamedWElteir&theme=rust-ferris-dark&hide_border=true&stroke=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak"><br>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedWElteir&layout=compact&theme=dark" alt="Top Languages">
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@MohamedWElteir&layout=compact&hide_border=true&theme=dark" alt="Wakatime Stats">
+      </td>
+    </tr>
+  </table>
+</div>
 
+</samp>         
    
 </details>
 <samp>
