@@ -31,17 +31,27 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="50" height="50"/>
 </p>
 
-  <table>
-    <tr>
-      <td>
-        <img src="https://awesome-github-stats.azurewebsites.net/user-stats/MohamedWElteir?cardType=level-alternate&theme=github-dark&preferLogin=true&Background=000000&Title=DDDDDD&Text=DDDDDD" alt="GitHub Stats"><br>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=MohamedWElteir&theme=rust-ferris-dark&hide_border=true&stroke=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak"><br>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@MohamedWElteir&layout=compact&hide_border=true&theme=dark" alt="Wakatime Stats" style="max-width: 90%; height: auto;">
-      </td>
-    </tr>
-  </table>
+
+<div align="center">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/MohamedWElteir?cardType=level-alternate&theme=github-dark&preferLogin=true&Background=000000&Title=DDDDDD&Text=DDDDDD" 
+       alt="GitHub Stats" 
+       style="width: auto; max-width: 600px; height: auto;" />
+</div>
+
+<br>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MohamedWElteir&theme=rust-ferris-dark&hide_border=true&stroke=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" 
+       alt="GitHub Streak" 
+       style="width: auto; max-width: 600px; height: auto;" />
+
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@MohamedWElteir&layout=compact&hide_border=true&theme=dark" 
+       alt="Wakatime Stats" 
+       style="width: auto; max-width: 600px; height: auto;" />
+
+</div>
+
 
        
 
