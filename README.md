@@ -42,9 +42,7 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MohamedWElteir&theme=rust-ferris-dark&hide_border=true&stroke=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" 
-       alt="GitHub Streak" 
-       style="width: auto; max-width: 600px; height: auto;" />
+
 
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@MohamedWElteir&layout=compact&hide_border=true&theme=dark" 
        alt="Wakatime Stats" 
