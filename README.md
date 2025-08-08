@@ -1,7 +1,7 @@
 <h1 align="center"><samp>Hello there, I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://bio.link/mohamedelteir">Mohamed Wael</a></b></samp></h1>
 <p align="center">
     <samp>
-        「 Computer Science student @ <b>Alexandria University</b> 」<br>
+        「 <b>Software Engineer</b> & Computer Science Graduate 」<br>
     </samp>
 </p>
 
